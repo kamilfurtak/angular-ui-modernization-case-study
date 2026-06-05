@@ -6,7 +6,7 @@ This repository documents an enterprise Angular UI modernization slice: preservi
 
 The production-grade implementation remains private. This repository is intentionally curated for portfolio review: architecture, decisions, screenshots, validation evidence, and public-safe notes only.
 
-![Asset Operations Console](assets/prime-migration-demo.png)
+![Prime Migration Workbench](assets/prime-migration-demo.png)
 
 ## What This Shows
 
@@ -31,11 +31,17 @@ The important idea is the migration boundary: feature screens can keep familiar 
 
 ## Featured Screens
 
-### Asset Operations Console
+### Prime Migration Workbench
 
 A dense back-office screen centered on a master grid, dependent records, toolbar actions, selected-row context, local dialogs, document flows, status indicators, and public-safe fake data.
 
-![Asset Operations Console](assets/prime-migration-demo.png)
+![Prime Migration Workbench](assets/prime-migration-demo.png)
+
+### Grid And Detail Workflow
+
+A focused view of the migration boundary in action: search form, action toolbar, selected row, status tones, detail panel, and local workflow actions in one operational layout.
+
+![Grid and Detail Workflow](assets/prime-migration-grid-detail.png)
 
 ### Starter Workbench
 

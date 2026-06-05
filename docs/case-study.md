@@ -12,7 +12,7 @@ The approach uses a three-layer migration model:
 - compatibility adapters for legacy-shaped selectors, inputs, outputs, services, and models;
 - PrimeNG-backed wrappers that render the new UI while keeping app-facing contracts stable.
 
-The public demo is an `Asset Operations Console`: a dense operational Angular screen with fake data, a master grid, dependent tabs, dialog/window workflows, upload and preview flows, communication actions, map/range actions, and visible validation proof points.
+The public demo is a `Prime Migration Portfolio` workbench: a dense operational Angular screen with fake asset-operations data, a master grid, dependent tabs, dialog/window workflows, upload and preview flows, communication actions, map/range actions, and visible validation proof points.
 
 ## Why It Matters
 

@@ -1,5 +1,7 @@
 # Angular UI Modernization Case Study
 
+![Angular UI Modernization Case Study](assets/angular-ui-modernization-social-preview.png)
+
 Public portfolio case study by Kamil Furtak, Senior Angular Engineer.
 
 This repository presents an enterprise Angular UI modernization slice: preserving dense Kendo-style workflows while moving rendering behind neutral contracts and PrimeNG-backed wrappers.
